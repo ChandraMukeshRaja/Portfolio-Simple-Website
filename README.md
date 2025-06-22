@@ -7,8 +7,7 @@ This is my **first personal portfolio website**, created using only **HTML and C
 - **Contact Page** – Contact form and social links
 
 ## 💡 Highlights:
-- ✅ Built with pure HTML5 and CSS3  
-- ✅ Fully responsive for mobile and desktop  
+- ✅ Built with pure HTML5 and CSS3    
 - ✅ Clean and simple layout  
 - ✅ Great project for beginners
 
